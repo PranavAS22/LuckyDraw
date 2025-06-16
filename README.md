@@ -55,3 +55,29 @@ root/
   cd LuckyDraw
 
   npm install
+
+  ```
+  New Terminal navigate to smart-contract folder
+
+  ```
+   npm install
+
+   npx hardhat compile
+
+  ```
+
+  After changing alchemy url in .env file
+
+  ```
+  npx hardhat run scripts/deploy.js --network sepolia
+
+  ```
+  After adding the contart address to the frontend \ contracts\ lottery.js
+
+  ```
+  cd frontend
+  npm run dev
+
+  ```
+
+## demo video
