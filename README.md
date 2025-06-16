@@ -65,4 +65,3 @@ LuckyDraw is a decentralized lottery application built with Solidity, React.js, 
 
   ```
 
-## demo video
