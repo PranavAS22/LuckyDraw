@@ -24,21 +24,6 @@ LuckyDraw is a decentralized lottery application built with Solidity, React.js, 
 
 ---
 
-## 📂 Project Structure
-
-root/
-├── contracts/ # Solidity smart contracts
-├── scripts/ # Deployment scripts
-├── test/ # Contract tests
-├── frontend/ # React.js frontend
-│ ├── public/
-│ ├── src/
-│ │ ├── assets/
-│ │ ├── contract/
-│ │ └── App.jsx
-├── hardhat.config.js # Hardhat configuration
-└── README.md # Project readme
-
 
 ## ⚙️ How to Run Locally
 
