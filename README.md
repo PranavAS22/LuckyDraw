@@ -1,10 +1,10 @@
-# 🎲 LuckyDraw - Web3 Lottery DApp
+# LuckyDraw - Web3 Lottery DApp
 
 LuckyDraw is a decentralized lottery application built with Solidity, React.js, and Hardhat. Participants can join the lottery using MetaMask, and once the maximum number of players is reached, a random winner is selected automatically and rewarded.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Connect wallet using MetaMask
 - Enter the raffle by paying a small ETH fee (0.01 ETH)
@@ -14,7 +14,7 @@ LuckyDraw is a decentralized lottery application built with Solidity, React.js, 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React.js + Tailwind CSS  
 - **Smart Contract:** Solidity (0.8.18)  
@@ -25,9 +25,9 @@ LuckyDraw is a decentralized lottery application built with Solidity, React.js, 
 ---
 
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
-### 📦 Prerequisites
+### Prerequisites
 
 - Node.js & npm
 - MetaMask browser extension
